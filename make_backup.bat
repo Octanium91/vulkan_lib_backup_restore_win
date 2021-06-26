@@ -1,8 +1,8 @@
-rem **************************************
-rem * Vulkan lib backup tool             *
-rem * version 1                          *
-rem * by Octanium91                      *
-rem **************************************
+:: **************************************
+:: * Vulkan lib backup tool             *
+:: * version 1                          *
+:: * by Octanium91                      *
+:: **************************************
 @echo off
 title= Vulkan libs backup by Octanium91
 set "backUpFolder=%~dp0backups"
